@@ -1,7 +1,6 @@
 package com.example.fgquizz.service;
 
 import com.example.fgquizz.model.Answer;
-import com.example.fgquizz.model.dto.AnswerDTO;
 
 import java.util.List;
 
